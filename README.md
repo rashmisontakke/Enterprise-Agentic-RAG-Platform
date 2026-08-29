@@ -190,8 +190,7 @@ docker exec -it ollama ollama pull mistral
 
 ## Author
 
-**Rashmi Sontakke**  
-Graduate Trainee — ML & Data Analytics | Force Motors EV R&D Division  
+**Rashmi Sontakke** - AI-ML Enginner | Force Motors EV R&D Division  
 📍 Pune, India | Open to Remote / Relocation  
 📧 rashmisontakke91@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/rashmi-sontakke) · [GitHub](https://github.com/rashmisontakke)
